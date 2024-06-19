@@ -1,0 +1,61 @@
+.landing-page {
+    background-color: #f5f5f5;
+    padding: 40px 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .btn-try {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .image-container {
+    margin: 20px 0;
+  }
+  
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .feature {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .feature i {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial {
+    margin-top: 40px;
+    font-style: italic;
+  }
+  
+  .btn-signup {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
